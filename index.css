@@ -1,0 +1,29 @@
+body {
+  background-image: url("fon.jpg");
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #181717;
+}
+
+h2 {
+  color: #181717;
+}
+
+p {
+  color: #181717;
+}
+
+footer {
+  background-color: #e22121;
+  color: #10686b3d;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
